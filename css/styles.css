@@ -424,7 +424,7 @@
     text-align: center;
   }
   
-  @media(mn-width: 795px) {
+  @media(min-width: 795px) {
     #footer-links-container li {
       text-align: left;
     }
